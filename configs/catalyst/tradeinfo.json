@@ -1,0 +1,16 @@
+{
+    "prod": {
+        "table" : "catalyst_prod"
+    },
+    "dev": {
+        "table" : "catalyst_dev"
+    },
+    "uat": {
+        "table" : "catalyst_uat"
+    },
+    "bcp": {
+        "table" : "catalyst_bcp"
+    }
+
+
+}
